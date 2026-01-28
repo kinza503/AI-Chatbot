@@ -1,0 +1,15 @@
+capital_of pakistan islamabad
+capital_of japan tokyo
+capital_of france paris
+capital_of germany berlin
+capital_of china beijing
+capital_of india new_delhi
+continent_of pakistan asia
+continent_of japan asia
+continent_of france europe
+continent_of germany europe
+continent_of china asia
+continent_of india asia
+parent ali hussain
+parent hussain farah
+parent farah imran
